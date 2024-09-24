@@ -23,3 +23,7 @@ If adding multiple mods, enter them in an array separated by `|`, such as `DOCKE
 * Some images have helpers built in, these images are currently:
     * [Openvscode-server](https://github.com/linuxserver/docker-openvscode-server/pull/10/files)
     * [Code-server](https://github.com/linuxserver/docker-code-server/pull/95)
+
+
+-----------------
+Replace imagename-modname  with servarr-configit
